@@ -1,6 +1,6 @@
 # Pizza_Store_Sales
 
- **Key Performance Indicators **
+ **Key Performance Indicators**:
  These metrics represent the financial and operational health of the pizza business.
  
  Total Revenue: 817,860.05 (The total income generated from all pizza sales).
@@ -15,7 +15,7 @@
  
  Top Revenue Category: Classic Pizzas (Contributing 220,053.10 to total sales).2. 
  
-** Business Objectives**
+**Business Objectives**:
 Based on the operational flow, the strategic focus areas are:
 
 Revenue Optimization: Maximizing the contribution of high-value pizzas like the Thai Chicken Pizza.
